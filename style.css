@@ -4,15 +4,10 @@ html, body {
 
 }
 hr {
-    display: block;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
-    margin-left: auto;
-    margin-right: auto;
-    border-style: inset;
-    border-width: 2px;
-    color: grey;
+    border-top: 1px solid grey;
 }
+
+
 
 .footer {
     position: absolute;
@@ -58,6 +53,9 @@ body {
   }
 /* Background pattern from Toptal Subtle Patterns */
 
-h1,h2{
+h1,h2 {
+    color: #4aaaa5;
+}
+.button {
     color: #4aaaa5;
 }
