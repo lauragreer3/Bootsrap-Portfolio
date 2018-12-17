@@ -1,0 +1,46 @@
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: #666666;
+    color: #cccccc;
+    border-top: 6px solid #4aaaa5;
+    text-align: center;
+}
+
+.wrapper span {
+    float: left;
+    padding-right: 1em;
+}
+
+#navbarText {
+
+}
+
+    
+#MyPage {
+    padding-left: 0px;
+}
+
+.wrapper {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10px;
+}
+body {
+    padding: 0;
+    margin: 0;
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: #333;
+    background-image: url(assets/ep_naturalwhite/ep_naturalwhite.png)
+  }
+
+
+h1{
+    color: #4aaaa5;
+}
