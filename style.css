@@ -1,3 +1,19 @@
+html, body {
+    height: 100%;
+    margin: 0;
+
+}
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 2px;
+    color: grey;
+}
+
 .footer {
     position: absolute;
     bottom: 0;
@@ -8,6 +24,11 @@
     color: #cccccc;
     border-top: 6px solid #4aaaa5;
     text-align: center;
+    margin-top: -50px;
+}
+
+.containerbgwhite {
+    width: 720px;
 }
 
 .wrapper span {
@@ -15,11 +36,7 @@
     padding-right: 1em;
 }
 
-#navbarText {
 
-}
-
-    
 #MyPage {
     padding-left: 0px;
 }
@@ -39,8 +56,8 @@ body {
     color: #333;
     background-image: url(assets/ep_naturalwhite/ep_naturalwhite.png)
   }
+/* Background pattern from Toptal Subtle Patterns */
 
-
-h1{
+h1,h2{
     color: #4aaaa5;
 }
