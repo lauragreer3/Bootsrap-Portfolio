@@ -96,3 +96,29 @@ h1,h2 {
     text-align: center;
     margin-top: -50px;
 }
+
+.footerabout {
+    position: absolute;
+    bottom: -5;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: #666666;
+    color: #cccccc;
+    border-top: 6px solid #4aaaa5;
+    text-align: center;
+    margin-top: 275px;
+}
+
+.footercontact {
+    position: absolute;
+    bottom: -5;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: #666666;
+    color: #cccccc;
+    border-top: 6px solid #4aaaa5;
+    text-align: center;
+    margin-top: 275px;
+}
