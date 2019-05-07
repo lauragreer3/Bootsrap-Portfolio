@@ -64,7 +64,23 @@ h1,h2 {
 .nerdybob {
     background-image: url("assets/nerdybob.png");
     background-repeat: no-repeat;
+}
+.checkyabob {
+    background-image: url("assets/spongebob_checkya.png");
+    background-repeat: no-repeat;
+    background-size: 100px 100px;
 }   
+.craybob {
+    background-image: url("assets/spongebob_cray.png");
+    background-repeat: no-repeat;
+    background-size: 100px 100px;
+}  
+.bobnote {
+    background-image: url("assets/spongebobnote.png");
+    background-repeat: no-repeat;
+    background-size: 150px 150px;
+}
+
 .myprojectgrid {
 
 }
@@ -81,7 +97,11 @@ h1,h2 {
     padding-top: 15px;
     width: 100%;
     background-color: turquoise;
-    opacity: .5;
+    opacity: .9;
+}
+.myprojectgrid p a {
+    color: #ffffff;
+    opacity: 1;
 }
 
 .footerportfolio {
