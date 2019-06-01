@@ -85,6 +85,11 @@ h1,h2 {
     background-repeat: no-repeat;
     background-size: 150px 150px;
 }
+.jellybob {
+    background-image: url("assets/spongebob_jelly.png");
+    background-repeat: no-repeat;
+    background-size: 150px 150px;
+}
 .myprojectgrid {
 
 }
